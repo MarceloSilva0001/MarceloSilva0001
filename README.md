@@ -17,7 +17,7 @@
  <br>
   
   <div> 
-  <a href="[https://www.linkedin.com/in/MarceloSilva-Silva-6a1681226/](https://br.linkedin.com/in/marcelo-augusto-da-silva-48a294246)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://br.linkedin.com/in/marcelo-augusto-da-silva-48a294246?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
  ![snake gif](https://github.com/victordamico/victordamico/blob/output/github-contribution-grid-snake.svg)
