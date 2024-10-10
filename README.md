@@ -17,7 +17,7 @@
   <a href="https://br.linkedin.com/in/marcelo-augusto-da-silva-48a294246?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" style="margin-right: 10px;">
   </a> 
-  <a href="https://github.com/marcelo-silva" target="_blank">
+  <a href="https://github.com/MarceloSilva0001" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
 </div>
